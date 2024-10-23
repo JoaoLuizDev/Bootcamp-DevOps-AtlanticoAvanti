@@ -30,6 +30,30 @@ Demonstrar na prática como automatizar o provisionamento de recursos na AWS uti
 ## 🎯 𝐑𝐞𝐬𝐮𝐥𝐭𝐚𝐝𝐨 𝐟𝐢𝐧𝐚𝐥 
 O provisionamento foi concluído com sucesso, e o site foi implementado e está acessível via browser utilizando o IP público da instância EC2 configurada.
 
+![Print da tela](https://github.com/user-attachments/assets/be837e4f-794e-403e-ab87-d8b04cdeb998)  
 
+![Print da tela](https://github.com/user-attachments/assets/31e293d4-a262-4588-8112-9b819ec01649)  
+
+![Print da tela](https://github.com/user-attachments/assets/1e5cd07a-057e-44b8-92e8-5a888542ff7e)  
+
+![Print da tela](https://github.com/user-attachments/assets/e07937df-605e-4720-be5f-6124f53b66d0)  
+
+![Print da tela](https://github.com/user-attachments/assets/562c3040-5396-4ac6-a03e-f15e699ef488)  
+
+![Print da tela](https://github.com/user-attachments/assets/c5c7f80b-2d97-4ef9-87b7-4ce02e57d006)  
+
+![Print da tela](https://github.com/user-attachments/assets/f3ff7d45-ddb6-4e6a-a89c-0c18af72c995)  
+
+![Print da tela](https://github.com/user-attachments/assets/d461261f-8d71-4696-b9c5-f76082e30550)  
+
+![Print da tela](https://github.com/user-attachments/assets/88b9916d-8944-4fe3-b63d-fced0b2911b5)
+
+![Print da tela](https://github.com/user-attachments/assets/628875a0-d257-4a2a-bfc8-e766297ba6e2)  
+
+![Print da tela](https://github.com/user-attachments/assets/a053e5f7-1277-4ad1-af85-14c54fe8ef87)  
+
+![Print da tela](https://github.com/user-attachments/assets/2f768c69-c47d-407a-9dc0-3f660f74a7a5)
+
+![Print da tela](https://github.com/user-attachments/assets/4bec50c9-12d5-47cf-bd07-32fc93695a3e)  
 
 
