@@ -7,3 +7,4 @@ Segue a lista abaixo para os diretórios de cada desafio:
 - [Desafio 1 - VirtualBox e Vagrant](https://github.com/JoaoLuizDev/Bootcamp-DevOps-AtlanticoAvanti/tree/main/Desafio-1-VirtualBox-Vagrant)
 - [Desafio 2 - Terraform e AWS](https://github.com/JoaoLuizDev/Bootcamp-DevOps-AtlanticoAvanti/tree/main/Desafio-2-Terraform)
 - [Desafio 3 - Terraform, AWS e Docker](https://github.com/JoaoLuizDev/Bootcamp-DevOps-AtlanticoAvanti/tree/main/Desafio-3-Terraform-Docker)
+- [Desafio 4 - Imagem Docker](https://github.com/JoaoLuizDev/Bootcamp-DevOps-AtlanticoAvanti/tree/main/Desafio-4-Imagem-Docker)
